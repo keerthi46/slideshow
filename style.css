@@ -1,6 +1,6 @@
 *
 {
-margin:0;
+margin:auto;
 padding:0;
 }
 @keyframes slide
@@ -63,13 +63,13 @@ left:0%
 
 #slider figure img
 {
-overflow: hidden;
+
 float: left;
-width:25%;
+width:20%;
 }
 #slider figure
 {
 position: relative;
-width:100%;
+width:50%;
 animation:slide 30s infinite;
 }
