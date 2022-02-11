@@ -65,11 +65,11 @@ left:0%
 {
 overflow: hidden;
 float: left;
-width:10%;
+width:25%;
 }
 #slider figure
 {
 position: relative;
-width:10%;
+width:100%;
 animation:slide 30s infinite;
 }
