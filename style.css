@@ -63,13 +63,13 @@ left:0%
 
 #slider figure img
 {
-
+overflow: hidden;
 float: left;
-width:20%;
+width:10%;
 }
 #slider figure
 {
 position: relative;
-width:50%;
+width:10%;
 animation:slide 30s infinite;
 }
